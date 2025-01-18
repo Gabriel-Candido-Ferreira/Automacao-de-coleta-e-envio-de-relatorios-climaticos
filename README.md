@@ -1,4 +1,4 @@
-# Automation of Climate Report Collection and Sending  
+# Automação da coleta e envio de relatórios climáticos 
 
 Este projeto foi desenvolvido por Gabriel Cândido e Rhennan Augusto como parte das disciplinas de **Computação Sustentável** e **Automação, Simulação e Controle**.  
 
