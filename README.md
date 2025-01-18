@@ -17,7 +17,7 @@ O projeto é dividido em duas etapas principais:
 
 ## **Tecnologias Utilizadas**  
 - **Python:**  
-  - Coleta de dados climáticos utilizando a API da **Open-Meteo**.  
+  - Coleta de dados climáticos utilizando a API da **[Open-Meteo](https://open-meteo.com/)**.  
   - Geração e envio de relatórios automáticos por e-mail.  
 
 - **Elipse E3 Studio:**  
